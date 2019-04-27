@@ -1,5 +1,4 @@
 # pre_config_pi
-Scripts to pre-configure Raspberry Pi without the need for a UBS keyboard and mouse
 
 To pre configure your Raspberry Pi with your WIFI and enable VNC, SSH, GPIO, SERIAL we can do the following.
 
