@@ -14,3 +14,6 @@ To pre configure your Raspberry Pi with your WIFI and enable VNC, SSH, GPIO, SER
 10. Via your personal computer, in the terminal run - ssh pi@raspberrypi.local 
 11. Type the password, Raspberry
 12. You now have access to the Pi, have fun!
+
+Video walk through of these steps and a few more to get you up and running with your Raspberry Pi: 
+https://www.youtube.com/watch?v=4p7navuQbh0&t=170s
