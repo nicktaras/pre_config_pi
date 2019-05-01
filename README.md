@@ -20,16 +20,17 @@ https://www.youtube.com/watch?v=4p7navuQbh0&t=170s
 
 Some handy commands:
 
-Shut down the Pi - sudo shutdown -h now
-Enter Bios - sudo raspi-config
-List items in directory - ls
-Check IP - ifconfig
-Change Directory - cd
-Create file - touch name.extension
-Create directory - mkdir name
-Remove file - rm file.extension
-Remove directory - rm -rf name
-Convert file type - convert a.png a.jpg
+- Shut down the Pi - sudo shutdown -h now
+- Enter Bios - sudo raspi-config
+- List items in directory - ls
+- Check IP - ifconfig
+- Change Directory - cd
+- Create file - touch foo.extension
+- Create directory - mkdir bar
+- Remove file - rm foo.extension
+- Remove directory - rm -rf bar
+- Move or Rename - mv foo.txt bar.txt
+- Convert file type - convert foo.png bar.jpg
 
 
 
