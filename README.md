@@ -17,3 +17,19 @@ To pre configure your Raspberry Pi with your WIFI and enable VNC, SSH, GPIO, SER
 
 Video walk through of these steps and a few more to get you up and running with your Raspberry Pi: 
 https://www.youtube.com/watch?v=4p7navuQbh0&t=170s
+
+Some handy commands:
+
+Shut down the Pi - sudo shutdown -h now
+Enter Bios - sudo raspi-config
+List items in directory - ls
+Check IP - ifconfig
+Change Directory - cd
+Create file - touch name.extension
+Create directory - mkdir name
+Remove file - rm file.extension
+Remove directory - rm -rf name
+Convert file type - convert a.png a.jpg
+
+
+
