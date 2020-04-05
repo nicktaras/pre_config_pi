@@ -18,6 +18,11 @@ To pre configure your Raspberry Pi with your WIFI and enable VNC, SSH, GPIO, SER
 Video walk through of these steps and a few more to get you up and running with your Raspberry Pi: 
 https://www.youtube.com/watch?v=4p7navuQbh0&t=170s
 
+For VNC Viewer - Run these command on the Pi via SSH before trying to connect to VNC Veiwer.
+
+sudo apt update
+sudo apt install realvnc-vnc-server realvnc-vnc-viewer
+
 Some handy commands:
 
 - Shut down the Pi - sudo shutdown -h now
