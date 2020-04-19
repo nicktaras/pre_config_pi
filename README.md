@@ -36,6 +36,6 @@ Some handy commands:
 - Remove directory - rm -rf bar
 - Move or Rename - mv foo.txt bar.txt
 - Convert file type - convert foo.png bar.jpg
-
+- sudo systemctl status vncserver-x11-serviced (check if VNC server is running)
 
 
